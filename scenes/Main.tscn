@@ -1,12 +1,17 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=8 format=2]
 
 [ext_resource path="res://ParallaxBackground.gd" type="Script" id=1]
 [ext_resource path="res://assets/snowField.png" type="Texture" id=2]
 [ext_resource path="res://scripts/Main.gd" type="Script" id=3]
 [ext_resource path="res://assets/fonts/ARCADE_R.TTF" type="DynamicFontData" id=4]
+[ext_resource path="res://assets/fonts/ARCADE_N.TTF" type="DynamicFontData" id=5]
 
 [sub_resource type="DynamicFont" id=1]
 font_data = ExtResource( 4 )
+
+[sub_resource type="DynamicFont" id=2]
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 5 )
 
 [node name="Main" type="Node2D"]
 script = ExtResource( 3 )
@@ -42,4 +47,14 @@ margin_bottom = 60.0
 custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
 custom_fonts/font = SubResource( 1 )
 text = "Distance Traveled "
+valign = 1
+
+[node name="score" type="Label" parent="."]
+margin_left = 315.0
+margin_top = 15.0
+margin_right = 422.0
+margin_bottom = 55.0
+custom_colors/font_color = Color( 0.529412, 0.0823529, 0.819608, 1 )
+custom_fonts/font = SubResource( 2 )
+text = "0"
 valign = 1

@@ -23,9 +23,10 @@ func _process(delta):
 			var myWaitSceen = waitScreen.instance()
 			add_child(myWaitSceen)
 			$distanceHUD.visible = false
+			$score.visible = false
 			Globals.waitSceen = true
 		return
-	$distanceHUD.text = "Distance Traveled :" + str(Globals.totalDistance * 10) + " yards."
+	$score.text = str(Globals.totalDistance * 10)
 	if $spawnTimer.is_stopped():
 		Globals.totalDistance +=1
 		rng.randomize()
@@ -45,15 +46,23 @@ func _process(delta):
 func initGame():
 	Globals.gameOver = false
 	$distanceHUD.visible = true
+	$score.visible = true
+	$score.text = "0"
 	var Player = thePlayer.instance()
 	Player.position = Globals.startPosition
+	Globals.totalDistance = 0
 	add_child(Player)
 
 #What to do when game is over
 func gameOver():
 	Globals.gameOver = true
-	Globals.lastScore = Globals.totalDistance
+	Globals.lastScore = int($score.text)
 	$distanceHUD.visible = false
+	$score.visible = false
+	if Globals.highScore < Globals.lastScore:
+		Globals.highScore = Globals.lastScore
+
+	
 	
 	
 	
