@@ -7,6 +7,7 @@ var rng = RandomNumberGenerator.new()
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	loadcfg()
 	pass # Replace with function body.
 
 func _process(delta):
@@ -44,7 +45,7 @@ func initGame():
 	var Player = thePlayer.instance()
 	Player.position = Globals.startPosition
 	Globals.totalDistance = 0
-	Globals.scrollSpeed = 100
+	Globals.scrollSpeed = 500
 	add_child(Player)
 
 #What to do when game is over
@@ -55,9 +56,33 @@ func gameOver():
 	$score.visible = false
 	if Globals.highScore < Globals.lastScore:
 		Globals.highScore = Globals.lastScore
+	save()
+	
+func save():
+	var save_data = {
+		"highscore": Globals.highScore,
+		"lastscore": Globals.lastScore,
+	}
+	var cfgFile = File.new()
+	cfgFile.open("user://snowdeath.cfg", File.WRITE)
+	cfgFile.store_line(to_json(save_data))
+	cfgFile.close()
+	
+func loadcfg():
+	var cfgFile = File.new()
+	cfgFile.open("user://snowdeath.cfg", cfgFile.READ)
+	var data = parse_json(cfgFile.get_as_text())
+	print ("Data: ", data)
+	if data:
+		Globals.highScore = data.highscore
+		Globals.lastScore = data.lastscore
+	
+	
+	
+	
 
 	
 	
 	
-	
+
 	

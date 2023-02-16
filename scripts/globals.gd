@@ -1,6 +1,6 @@
 extends Node
 
-var scrollSpeed = 100
+var scrollSpeed = 500
 var totalDistance = 0
 var gameOver = true
 var lastScore = 0
