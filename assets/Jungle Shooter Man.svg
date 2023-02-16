@@ -1,0 +1,1958 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Jungle Shooter Man.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4013">
+      <stop
+         id="stop4015"
+         offset="0"
+         style="stop-color:#77552b;stop-opacity:1" />
+      <stop
+         id="stop4017"
+         offset="1"
+         style="stop-color:#4d2b00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3911">
+      <stop
+         style="stop-color:#a05a2c;stop-opacity:1;"
+         offset="0"
+         id="stop3913" />
+      <stop
+         style="stop-color:#653515;stop-opacity:1"
+         offset="1"
+         id="stop3915" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3903">
+      <stop
+         style="stop-color:#fccf93;stop-opacity:1;"
+         offset="0"
+         id="stop3905" />
+      <stop
+         style="stop-color:#ffc173;stop-opacity:1"
+         offset="1"
+         id="stop3907" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3895">
+      <stop
+         style="stop-color:#fccf93;stop-opacity:1;"
+         offset="0"
+         id="stop3897" />
+      <stop
+         style="stop-color:#ffdeb3;stop-opacity:1"
+         offset="1"
+         id="stop3899" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3881">
+      <stop
+         style="stop-color:#fccf93;stop-opacity:1;"
+         offset="0"
+         id="stop3883" />
+      <stop
+         style="stop-color:#a87632;stop-opacity:1"
+         offset="1"
+         id="stop3885" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3865">
+      <stop
+         style="stop-color:#63441d;stop-opacity:1;"
+         offset="0"
+         id="stop3867" />
+      <stop
+         style="stop-color:#4d2b00;stop-opacity:1"
+         offset="1"
+         id="stop3869" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient4217"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,-214.72708,522.47834)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient4219"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075176,0.0056849,-0.00611587,0.99941109,-332.05352,519.19515)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient4221"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,-230.81938,518.85711)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient4483"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,-2030.0717,201.98159)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient4485"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.55309961,-0.54445328,1.2795767,1.6842493,-3093.44,-188.23641)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient4487"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,-2046.164,196.36036)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient4489"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,-2409.1386,376.65026)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient4491"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,-2077.7353,828.78846)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient4507"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.699362,0.33651349,-1.1526053,1.7735594,-1504.0519,-728.67825)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient3718"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,1257.3146,1953.7887)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient3720"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075176,0.0056849,-0.00611587,0.99941109,1139.9881,1948.5055)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient3722"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,1241.2223,1948.1675)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient3724"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,878.24765,2128.4574)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient3726"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,1209.6509,2580.5956)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient3728"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,1262.8317,2339.9849)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient3730"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075176,0.0056849,-0.00611587,0.99941109,1145.5052,2334.7017)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient3732"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,1246.7394,2334.3637)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient3734"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,883.76474,2514.6536)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient3736"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,1215.168,2966.7917)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient3383"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,-262.39074,1171.2852)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient3385"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,-593.79396,719.14701)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient3507"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,-229.75484,1938.3746)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient3509"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075176,0.0056849,-0.00611587,0.99941109,-347.08128,1935.0914)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient3511"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,-245.84714,1934.7534)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient3513"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,-608.82172,2135.0433)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient3515"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,-277.4185,2587.1815)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient3571"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,562.90621,542.28068)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient3573"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075176,0.0056849,-0.00611587,0.99941109,445.57977,538.99749)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient3575"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,546.81391,526.65945)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient3577"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,183.83933,726.94938)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient3579"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,515.24255,1179.0876)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient3635"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,505.68905,1933.6981)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient3637"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075176,0.0056849,-0.00611587,0.99941109,388.36261,1930.4149)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient3639"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,489.59675,1918.0769)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient3641"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,126.62217,2118.3668)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient3643"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,458.02539,2570.505)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient3699"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,1319.7332,509.47444)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient3701"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075176,0.0056849,-0.00611587,0.99941109,1202.4068,506.19125)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient3703"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,1303.6409,505.85321)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient3705"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,940.66634,706.14311)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient3707"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,1272.0696,1158.2813)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3895"
+       id="linearGradient3773"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075662,0.00568481,-0.00611864,0.99939486,1324.9348,928.20006)"
+       x1="8.2718887"
+       y1="843.16949"
+       x2="93.825462"
+       y2="837.6524" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3903"
+       id="linearGradient3775"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.075176,0.0056849,-0.00611587,0.99941109,1207.6084,924.91687)"
+       x1="531.37097"
+       y1="840.88513"
+       x2="424.77963"
+       y2="839.96564" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3911"
+       id="linearGradient3777"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90423536,0.00527443,-0.00555577,1.0015658,1308.8425,924.57883)"
+       x1="262.90948"
+       y1="860.99506"
+       x2="266.40869"
+       y2="975.93439" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="radialGradient3779"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95071073,-0.4521093,0.43632007,0.91750861,945.8679,1124.8687)"
+       cx="232.48174"
+       cy="779.66241"
+       fx="232.48174"
+       fy="779.66241"
+       r="142.53033" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4013"
+       id="radialGradient3781"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99998382,0.00568816,-0.00412899,0.72587908,1277.2712,1577.0069)"
+       cx="253.58977"
+       cy="287.38621"
+       fx="253.58977"
+       fy="287.38621"
+       r="154.13195" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.19225"
+     inkscape:cx="654.34602"
+     inkscape:cy="-1234.6015"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     borderlayer="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="1"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="25px"
+       spacingy="25px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36218)">
+    <path
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.82442832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 1631.9671,1485.4043 c -16.4012,7.3598 -25.5315,14.9745 -49.2148,2.7849 -5.0081,-2.5776 -9.6873,1.8769 -10.2002,7.6356 -0.7252,8.1421 -2.241,14.7624 -3.5297,22.8593 -0.9889,6.2135 5.6675,12.5558 12.177,11.1855 22.2965,-4.6935 40.9591,-2.7801 58.3348,-0.3083 6.5896,0.9374 14.0762,-5.3755 12.0392,-11.3135 l -7.4293,-21.6579 c -2.037,-5.938 -6.0579,-13.9314 -12.177,-11.1856 z"
+       id="path3713"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4153"
+       y="1086.6671"
+       x="-140.87321"
+       style="font-size:63.94384003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       xml:space="preserve"><tspan
+         y="1086.6671"
+         x="-140.87321"
+         id="tspan4155"
+         sodipodi:role="line">Normal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:63.94384003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       x="730.72144"
+       y="1045.0546"
+       id="text4157"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4159"
+         x="730.72144"
+         y="1045.0546">Shoot animation</tspan><tspan
+         sodipodi:role="line"
+         x="730.72144"
+         y="1109.02"
+         id="tspan4161"
+         style="font-size:48px">(arms are slightly shorter)</tspan></text>
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.91763425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4163"
+       width="401.56528"
+       height="84.903389"
+       x="-208.59973"
+       y="1419.0596"
+       ry="12.218468"
+       transform="matrix(0.99998235,0.00594107,-0.00544601,0.99998517,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       style="fill:#214523;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4165"
+       width="280.88428"
+       height="80.624184"
+       x="-146.27998"
+       y="1449.1466"
+       ry="8.9271297"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       style="fill:#1e4b21;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4167"
+       width="219.76593"
+       height="37.711315"
+       x="-115.72079"
+       y="1464.4628"
+       ry="8.9271297"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       style="fill:url(#linearGradient4217);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m -241.71473,1296.4102 49.27307,0.2604 c 7.27431,0.038 14.87924,5.7261 13.05584,12.2689 -10.6358,38.1644 -1.90417,76.4313 -0.70198,114.6584 0.21247,6.7558 -5.93091,12.1686 -13.20522,12.1301 l -36.41493,-0.1924 c -7.27433,-0.039 -12.34316,-5.5428 -13.05584,-12.269 l -12.15615,-114.7263 c -0.71269,-6.7261 5.9309,-12.1686 13.20521,-12.1301 z"
+       id="path4169"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       style="fill:url(#linearGradient4219);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 171.00508,1301.4561 49.2508,0.2604 c 7.27104,0.039 13.60212,5.5299 13.04996,12.269 l -9.6163,117.3702 c -0.55215,6.7393 -5.95082,12.6641 -13.19926,12.1304 l -40.33617,-2.9703 c -7.24844,-0.5338 -13.21273,-5.5121 -13.04995,-12.2691 0.91559,-38.0049 13.80358,-72.2297 0.70166,-114.6604 -2.006,-6.4963 5.92822,-12.1686 13.19926,-12.1302 z"
+       id="path4171"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.82442832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m -237.82161,1268.1907 c 16.40123,7.3598 25.53146,14.9745 49.21484,2.7849 5.00808,-2.5776 9.68727,1.8769 10.20019,7.6356 0.72521,8.1421 2.24096,14.7624 3.52966,22.8593 0.98896,6.2136 -5.88901,9.0148 -12.17695,11.1855 -22.29655,7.6973 -40.95909,5.4544 -58.33487,-0.3083 -6.31755,-2.0951 -14.07617,-5.3754 -12.0392,-11.3135 l 7.42937,-21.6579 c 2.03697,-5.938 6.05786,-13.9314 12.17696,-11.1856 z"
+       id="path4173"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.765311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 173.06029,1269.1923 c 15.44687,7.5317 25.83017,9.6888 43.70914,0.2172 5.67082,-3.0042 9.17969,5.5819 11.52018,11.4606 l 7.74251,19.4471 c 2.34051,5.8787 -5.39491,9.9227 -11.65199,11.331 -18.63149,4.1931 -37.24134,4.6437 -55.81992,-0.3123 -6.19498,-1.6527 -14.42092,-5.8171 -11.52018,-11.4607 3.70989,-7.2178 4.97645,-11.5288 4.36827,-19.352 -0.48984,-6.301 5.88371,-14.1435 11.65199,-11.3309 z"
+       id="path4175"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       style="fill:url(#linearGradient4221);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.80669022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m -213.5622,1374.0174 c 137.468704,-18.7422 261.080574,-24.8089 407.1594,0.6369 7.22264,1.2582 18.35266,7.23 22.53679,13.7442 11.63529,18.1148 12.05851,47.9242 11.25724,72.3953 -0.26497,8.0928 -6.10498,13.1216 -13.28012,14.5428 -142.566746,28.2396 -291.846756,28.0582 -448.32554,-2.6151 -7.17806,-1.4071 -13.04796,-6.5978 -13.1179,-14.6967 -0.21035,-24.3536 -1.90159,-48.9503 12.86523,-70.8444 4.37825,-6.4915 13.64651,-12.1734 20.9049,-13.163 z"
+       id="path4177"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       style="fill:#633112;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.20832539;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 135.89381,1370.8934 c -25.08462,-0.7611 -47.785466,-9.4743 -75.938426,0 -3.94518,1.3278 -7.44028,3.6899 -7.44028,8.2734 l 0,97.4244 c 0,4.5835 3.48965,6.9658 7.44028,8.2732 23.74246,7.8579 49.800616,4.1282 75.938426,0 4.08095,-0.6444 7.44028,-3.6897 7.44028,-8.2732 l 0,-97.4244 c 0,-4.5835 -3.31991,-8.1484 -7.44028,-8.2734 z"
+       id="path3348"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       inkscape:export-ydpi="108.42641"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path4181"
+       d="m -170.4203,1370.1375 c 25.09055,-0.7532 47.79676,-9.3758 75.956374,0 3.94611,1.3139 7.44203,3.6515 7.44203,8.1873 l 0,96.411 c 0,4.5358 -3.49047,6.8934 -7.44203,8.1872 -23.748074,7.7761 -49.812384,4.0852 -75.956374,0 -4.08191,-0.6377 -7.44203,-3.6514 -7.44203,-8.1872 l 0,-96.411 c 0,-4.5358 3.32069,-8.0636 7.44203,-8.1873 z"
+       style="fill:#633112;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.18687582;stroke-miterlimit:4;stroke-opacity:1" />
+    <rect
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.92986774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4187"
+       width="28.427517"
+       height="56.116581"
+       x="-55.004475"
+       y="1480.4025"
+       ry="14.213758"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       ry="14.213758"
+       y="1480.4025"
+       x="16.556683"
+       height="56.116581"
+       width="28.427517"
+       id="rect4189"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.92986774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       style="fill:#582b0d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4191"
+       width="97.468552"
+       height="28.504955"
+       x="-53.544575"
+       y="1482.952"
+       ry="12.206936"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4193"
+       width="32.172394"
+       height="97.472069"
+       x="-222.71475"
+       y="1197.1595"
+       ry="12.199778"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4195"
+       width="22.749319"
+       height="15.163095"
+       x="-218.00327"
+       y="1292.996"
+       ry="4.1353893"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4197"
+       width="44.761593"
+       height="37.689201"
+       x="-229.00937"
+       y="1263.4406"
+       ry="12.199778"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4199"
+       width="9.7915983"
+       height="10.39702"
+       x="-211.48764"
+       y="1192.7626"
+       ry="4.5486965"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4201"
+       width="8.901907"
+       height="26.65029"
+       x="-211.0795"
+       y="1243.601"
+       ry="4.1353893"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       ry="12.199976"
+       y="1193.2651"
+       x="187.86104"
+       height="97.473648"
+       width="32.15786"
+       id="rect4203"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       ry="4.1354566"
+       y="1289.1031"
+       x="192.57045"
+       height="15.163342"
+       width="22.739042"
+       id="rect4205"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       ry="12.199976"
+       y="1259.5472"
+       x="181.56929"
+       height="37.689812"
+       width="44.741371"
+       id="rect4207"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       ry="4.5487704"
+       y="1188.8679"
+       x="199.08302"
+       height="10.397189"
+       width="9.7871742"
+       id="rect4209"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       ry="4.1354566"
+       y="1239.7073"
+       x="199.49104"
+       height="26.650721"
+       width="8.8978853"
+       id="rect4211"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4231"
+       y="762.21613"
+       x="-237.6916"
+       style="font-size:169.93640137px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       xml:space="preserve"><tspan
+         y="762.21613"
+         x="-237.6916"
+         id="tspan4233"
+         sodipodi:role="line">Top Down Shooter Character</tspan></text>
+    <path
+       style="fill:url(#radialGradient3385);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 126.93135,1372.7483 c -2.81791,65.9067 -64.556986,102.2975 -142.091756,101.8565 -77.53476,-0.4411 -143.395374,-37.6551 -138.686444,-103.4537 3.15982,-44.1527 34.02771,-85.9674 76.483524,-106.2357 8.42282,-4.021 20.94836,-1.6561 30.15748,-3.831 12.20877,-2.8834 21.3513,-9.5506 34.42752,-8.5763 7.3084495,0.5445 16.2787795,4.2376 23.2322,5.5135 7.67041,1.4073 21.55741,0.5208 28.71348,2.7466 58.35079,18.1495 89.891766,62.2148 87.763996,111.9801 z"
+       id="path4179"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       style="fill:url(#radialGradient3383);fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:17.60000038;stroke-opacity:1;stroke-dasharray:none"
+       d="m -95.212106,1272.2662 c -45.513374,29.0685 -42.083744,39.8509 -58.020044,62.5358 -1.307,-6.8112 1.87133,25.8897 -1.06613,37.2596 -1.61174,8.3848 6.89224,13.4615 -7.79329,26.1217 -7.87368,-3.3506 7.74642,1.4994 16.61913,22.5824 6.76215,8.0423 9.34091,16.0607 6.29992,24.0472 -21.14463,-1.7714 16.97178,8.1013 37.70118,13.3764 l 12.732824,19.9595 c -11.313454,3.4343 24.10432,-2.59 38.9069,-4.4417 10.71313,0.1917 20.24172,2.7194 23.59677,17.4204 12.0175,-12.7691 28.5804195,-16.3578 40.54277,-19.4333 25.16096,9.8078 48.89467,19.0075 36.91455,12.991 l 14.32093,-25.8614 28.2603,1.0802 c 3.3474,4.255 6.770496,-4.7962 10.243306,-22.5873 l 23.05789,-10.2721 -1.98656,-24.7845 c 5.62672,2 13.73822,-7.2316 17.05536,-26.371 -5.33089,9.6477 -10.5215,-5.3682 -15.71704,-19.5167 12.35197,-22.7518 -14.61093,-34.4989 -19.66561,-55.1752 l -42.050356,-29.3216 -37.77727,11.4888 -27.27511048,-5.8954 c -0.16386,5.5308 -7.15307002,7.6002 -11.76555952,10.875 l -26.10355,16.7569 -19.69778,-5.5368 c -3.69159,-3.5798 -4.48273,-0.284 -11.41491,-11.5456 l -14.26708,-6.5832 c -3.72235,-2.6459 -3.6188,4.4331 -11.65154,-9.1691 z"
+       id="path4185"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path4213"
+       sodipodi:cx="210.1091"
+       sodipodi:cy="163.91739"
+       sodipodi:rx="13.332963"
+       sodipodi:ry="3.2183013"
+       d="m 223.44206,163.91739 a 13.332963,3.2183013 0 1 1 -26.66592,0 13.332963,3.2183013 0 1 1 26.66592,0 z"
+       transform="matrix(0.98460663,-0.17478497,0.17478497,0.98460663,-288.31047,1135.7652)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path4215"
+       sodipodi:cx="210.1091"
+       sodipodi:cy="163.91739"
+       sodipodi:rx="13.332963"
+       sodipodi:ry="3.2183013"
+       d="m 223.44206,163.91739 a 13.332963,3.2183013 0 1 1 -26.66592,0 13.332963,3.2183013 0 1 1 26.66592,0 z"
+       transform="matrix(-0.99864408,-0.05205775,-0.05205775,0.99864408,236.81083,1105.0948)"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\standing-still.png"
+       inkscape:export-xdpi="108.42641"
+       inkscape:export-ydpi="108.42641" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998235,0.00594107,-0.00544601,0.99998517,0,0)"
+       ry="12.218468"
+       y="1422.2419"
+       x="569.06458"
+       height="84.903389"
+       width="401.56528"
+       id="rect3517"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.91763425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       ry="8.9271297"
+       y="1452.5255"
+       x="631.38513"
+       height="80.624184"
+       width="280.88428"
+       id="rect3519"
+       style="fill:#214523;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       ry="8.9271297"
+       y="1467.8417"
+       x="661.94434"
+       height="37.711315"
+       width="219.76593"
+       id="rect3521"
+       style="fill:#1e4b21;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3523"
+       d="m 535.91856,1316.2126 49.27307,0.2604 c 7.27431,0.038 14.87924,5.7261 13.05584,12.2688 -10.6358,38.1645 -1.90417,76.4314 -0.70198,114.6585 0.21247,6.7558 -5.93091,12.1686 -13.20522,12.1301 l -36.41493,-0.1924 c -7.27433,-0.039 -12.34316,-5.5428 -13.05584,-12.269 l -12.15615,-114.7264 c -0.71269,-6.726 5.9309,-12.1685 13.20521,-12.13 z"
+       style="fill:url(#linearGradient3571);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3525"
+       d="m 948.63837,1321.2585 49.2508,0.2604 c 7.27103,0.039 13.60213,5.5298 13.04993,12.269 l -9.6163,117.3702 c -0.5521,6.7393 -5.95079,12.6641 -13.19923,12.1304 l -40.33617,-2.9703 c -7.24844,-0.5338 -13.21273,-5.5121 -13.04995,-12.2691 0.91559,-38.0049 13.80358,-72.2297 0.70166,-114.6604 -2.006,-6.4964 5.92822,-12.1686 13.19926,-12.1302 z"
+       style="fill:url(#linearGradient3573);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3527"
+       d="m 539.81168,1287.9931 c 16.40123,7.3598 25.53146,14.9745 49.21484,2.7849 5.00808,-2.5776 9.68727,1.8769 10.20019,7.6356 0.72521,8.1421 2.24096,14.7624 3.52966,22.8593 0.98896,6.2135 -5.88901,9.0147 -12.17695,11.1855 -22.29655,7.6973 -40.95909,5.4544 -58.33487,-0.3083 -6.31755,-2.0952 -14.07617,-5.3755 -12.0392,-11.3135 l 7.42937,-21.6579 c 2.03697,-5.938 6.05786,-13.9314 12.17696,-11.1856 z"
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.82442832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3529"
+       d="m 950.69358,1288.9947 c 15.44687,7.5317 25.83017,9.6888 43.70914,0.2172 5.67078,-3.0042 9.17968,5.5819 11.52018,11.4606 l 7.7425,19.4471 c 2.3405,5.8787 -5.3949,9.9226 -11.652,11.3309 -18.63147,4.1932 -37.24132,4.6438 -55.8199,-0.3123 -6.19498,-1.6527 -14.42092,-5.8171 -11.52018,-11.4606 3.70989,-7.2178 4.97645,-11.5288 4.36827,-19.352 -0.48984,-6.301 5.88371,-14.1435 11.65199,-11.3309 z"
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.765311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3531"
+       d="m 564.07109,1381.8198 c 137.4687,-18.7422 261.08057,-24.8089 407.1594,0.6369 7.22264,1.2582 18.35266,7.23 22.53679,13.7442 11.63532,18.1148 12.05852,47.9242 11.25722,72.3953 -0.2649,8.0928 -6.10496,13.1216 -13.2801,14.5428 -142.56675,28.2396 -291.84676,28.0582 -448.32554,-2.6151 -7.17806,-1.4071 -13.04796,-6.5978 -13.1179,-14.6967 -0.21035,-24.3536 -1.90159,-48.9503 12.86523,-70.8444 4.37825,-6.4915 13.64651,-12.1734 20.9049,-13.163 z"
+       style="fill:url(#linearGradient3575);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.80669022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3533"
+       d="m 913.5271,1378.6958 c -25.08462,-0.7611 -47.78547,-9.4743 -75.93843,0 -3.94518,1.3278 -7.44028,3.6899 -7.44028,8.2734 l 0,97.4244 c 0,4.5835 3.48965,6.9658 7.44028,8.2732 23.74246,7.8579 49.80062,4.1282 75.93843,0 4.08095,-0.6444 7.44028,-3.6897 7.44028,-8.2732 l 0,-97.4244 c 0,-4.5835 -3.31991,-8.1484 -7.44028,-8.2734 z"
+       style="fill:#633112;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.20832539;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       style="fill:#633112;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.18687582;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 607.21299,1377.9399 c 25.09055,-0.7532 47.79676,-9.3758 75.95637,0 3.94611,1.3139 7.44203,3.6515 7.44203,8.1873 l 0,96.411 c 0,4.5358 -3.49047,6.8934 -7.44203,8.1872 -23.74807,7.7761 -49.81238,4.0852 -75.95637,0 -4.08191,-0.6377 -7.44203,-3.6514 -7.44203,-8.1872 l 0,-96.411 c 0,-4.5358 3.32069,-8.0636 7.44203,-8.1873 z"
+       id="path3535"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-ydpi="108.5483" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       ry="14.213758"
+       y="1483.7814"
+       x="722.66064"
+       height="56.116581"
+       width="28.427517"
+       id="rect3537"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.92986774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.92986774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3539"
+       width="28.427517"
+       height="56.116581"
+       x="794.2218"
+       y="1483.7814"
+       ry="14.213758" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       ry="12.206936"
+       y="1486.3309"
+       x="724.12054"
+       height="28.504955"
+       width="97.468552"
+       id="rect3541"
+       style="fill:#582b0d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="12.199778"
+       y="1212.8521"
+       x="555.02545"
+       height="97.472069"
+       width="32.172394"
+       id="rect3543"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="4.1353893"
+       y="1308.6885"
+       x="559.73694"
+       height="15.163095"
+       width="22.749319"
+       id="rect3545"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="12.199778"
+       y="1279.1331"
+       x="548.73083"
+       height="37.689201"
+       width="44.761593"
+       id="rect3547"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="4.5486965"
+       y="1208.4551"
+       x="566.25256"
+       height="10.39702"
+       width="9.7915983"
+       id="rect3549"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="4.1353893"
+       y="1259.2935"
+       x="566.66064"
+       height="26.65029"
+       width="8.901907"
+       id="rect3551"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3553"
+       width="32.15786"
+       height="97.473648"
+       x="965.60126"
+       y="1208.9557"
+       ry="12.199976" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3555"
+       width="22.739042"
+       height="15.163342"
+       x="970.31067"
+       y="1304.7937"
+       ry="4.1354566" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3557"
+       width="44.741371"
+       height="37.689812"
+       x="959.30951"
+       y="1275.2378"
+       ry="12.199976" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3559"
+       width="9.7871742"
+       height="10.397189"
+       x="976.82324"
+       y="1204.5585"
+       ry="4.5487704" />
+    <rect
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3561"
+       width="8.8978853"
+       height="26.650721"
+       x="977.23126"
+       y="1255.3978"
+       ry="4.1354566" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3563"
+       d="m 904.56464,1380.5507 c -2.81791,65.9067 -64.55699,102.2975 -142.09176,101.8565 -77.53476,-0.4411 -143.39537,-37.6551 -138.68644,-103.4537 3.15982,-44.1527 34.02771,-85.9674 76.48352,-106.2357 8.42282,-4.021 20.94836,-1.6561 30.15748,-3.831 12.20877,-2.8834 21.3513,-9.5506 34.42752,-8.5763 7.30845,0.5445 16.27878,4.2376 23.2322,5.5135 7.67041,1.4073 21.55741,0.5208 28.71348,2.7466 58.35079,18.1495 89.89177,62.2148 87.764,111.9801 z"
+       style="fill:url(#radialGradient3577);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3565"
+       d="m 682.42118,1280.0686 c -45.51337,29.0685 -42.08374,39.8509 -58.02004,62.5358 -1.307,-6.8112 1.87133,25.8897 -1.06613,37.2596 -1.61174,8.3848 6.89224,13.4615 -7.79329,26.1217 -7.87368,-3.3506 7.74642,1.4994 16.61913,22.5824 6.76215,8.0423 9.34091,16.0607 6.29992,24.0472 -21.14463,-1.7714 16.97178,8.1013 37.70118,13.3764 l 12.73282,19.9595 c -11.31345,3.4343 24.10432,-2.59 38.9069,-4.4417 10.71313,0.1917 20.24172,2.7194 23.59677,17.4204 12.0175,-12.7691 28.58042,-16.3578 40.54277,-19.4333 25.16096,9.8078 48.89467,19.0075 36.91455,12.991 l 14.32093,-25.8614 28.2603,1.0802 c 3.3474,4.255 6.7705,-4.7962 10.24331,-22.5873 l 23.05789,-10.2721 -1.98656,-24.7845 c 5.62672,2 13.73822,-7.2316 17.05536,-26.371 -5.33089,9.6477 -10.5215,-5.3682 -15.71704,-19.5167 12.35197,-22.7518 -14.61093,-34.4989 -19.66561,-55.1752 l -42.05036,-29.3216 -37.77727,11.4888 -27.27511,-5.8954 c -0.16386,5.5308 -7.15307,7.6002 -11.76556,10.875 l -26.10355,16.7569 -19.69778,-5.5368 c -3.69159,-3.5798 -4.48273,-0.284 -11.41491,-11.5456 l -14.26708,-6.5832 c -3.72235,-2.6459 -3.6188,4.4331 -11.65154,-9.1691 z"
+       style="fill:url(#radialGradient3579);fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:17.60000038;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(0.98460663,-0.17478497,0.17478497,0.98460663,489.32282,1143.5676)"
+       d="m 223.44206,163.91739 a 13.332963,3.2183013 0 1 1 -26.66592,0 13.332963,3.2183013 0 1 1 26.66592,0 z"
+       sodipodi:ry="3.2183013"
+       sodipodi:rx="13.332963"
+       sodipodi:cy="163.91739"
+       sodipodi:cx="210.1091"
+       id="path3567"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="108.5483"
+       inkscape:export-xdpi="108.5483"
+       inkscape:export-filename="C:\Users\Chris\Documents\Square Pug Limited\Distribution of media for promo\Distributing graphics\Jungle shooter man\TopDownShooter\shooting.png"
+       transform="matrix(-0.99864408,-0.05205775,-0.05205775,0.99864408,1014.4441,1112.8972)"
+       d="m 223.44206,163.91739 a 13.332963,3.2183013 0 1 1 -26.66592,0 13.332963,3.2183013 0 1 1 26.66592,0 z"
+       sodipodi:ry="3.2183013"
+       sodipodi:rx="13.332963"
+       sodipodi:cy="163.91739"
+       sodipodi:cx="210.1091"
+       id="path3569"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998235,0.00594107,-0.00544601,0.99998517,0,0)"
+       ry="12.218468"
+       y="1396.9397"
+       x="1325.7672"
+       height="84.903389"
+       width="401.56528"
+       id="rect3645"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.91763425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       ry="8.9271297"
+       y="1427.4147"
+       x="1388.0815"
+       height="80.624184"
+       width="280.88428"
+       id="rect3647"
+       style="fill:#214523;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       ry="8.9271297"
+       y="1442.7308"
+       x="1418.6407"
+       height="37.711315"
+       width="219.76593"
+       id="rect3649"
+       style="fill:#1e4b21;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3651"
+       d="m 1292.7456,1283.4064 49.273,0.2604 c 7.2744,0.038 14.8793,5.7261 13.0559,12.2688 -10.6358,38.1645 -1.9042,76.4314 -0.702,114.6585 0.2125,6.7558 -5.9309,12.1686 -13.2052,12.1301 l -36.4149,-0.1924 c -7.2744,-0.039 -12.3432,-5.5428 -13.0559,-12.269 l -12.1561,-114.7264 c -0.7127,-6.726 5.9309,-12.1685 13.2052,-12.13 z"
+       style="fill:url(#linearGradient3699);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3653"
+       d="m 1705.4654,1288.4523 49.2508,0.2604 c 7.271,0.039 13.6021,5.5298 13.0499,12.269 l -9.6163,117.3702 c -0.5521,6.7393 -5.9508,12.6641 -13.1992,12.1304 l -40.3362,-2.9703 c -7.2484,-0.5338 -13.2127,-5.5121 -13.0499,-12.2691 0.9156,-38.0049 13.8035,-72.2297 0.7016,-114.6604 -2.006,-6.4964 5.9282,-12.1686 13.1993,-12.1302 z"
+       style="fill:url(#linearGradient3701);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3655"
+       d="m 1296.6387,1255.1869 c 16.4012,7.3597 25.5315,14.9744 49.2148,2.7849 5.0081,-2.5776 9.6873,1.8768 10.2002,7.6355 0.7252,8.1422 2.241,14.7625 3.5297,22.8594 0.9889,6.2135 -5.889,9.0147 -12.177,11.1855 -22.2965,7.6973 -40.9591,5.4544 -58.3348,-0.3083 -6.3176,-2.0952 -14.0762,-5.3755 -12.0392,-11.3135 l 7.4293,-21.6579 c 2.037,-5.938 6.0579,-13.9315 12.177,-11.1856 z"
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.82442832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3657"
+       d="m 1707.5206,1256.1884 c 15.4469,7.5318 25.8302,9.6889 43.7091,0.2173 5.6709,-3.0042 9.1797,5.5819 11.5202,11.4606 l 7.7425,19.4471 c 2.3405,5.8787 -5.3949,9.9226 -11.652,11.3309 -18.6315,4.1932 -37.2413,4.6438 -55.8199,-0.3123 -6.195,-1.6527 -14.4209,-5.8171 -11.5202,-11.4606 3.7099,-7.2179 4.9765,-11.5288 4.3683,-19.3521 -0.4898,-6.301 5.8837,-14.1434 11.652,-11.3309 z"
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.765311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3659"
+       d="m 1320.8981,1361.0136 c 137.4687,-18.7422 261.0806,-24.8089 407.1594,0.6369 7.2226,1.2582 18.3527,7.23 22.5368,13.7442 11.6353,18.1148 12.0585,47.9242 11.2572,72.3953 -0.2649,8.0928 -6.1049,13.1216 -13.2801,14.5428 -142.5667,28.2396 -291.8467,28.0582 -448.3255,-2.6151 -7.1781,-1.4071 -13.048,-6.5978 -13.1179,-14.6967 -0.2104,-24.3536 -1.9016,-48.9503 12.8652,-70.8444 4.3783,-6.4915 13.6465,-12.1734 20.9049,-13.163 z"
+       style="fill:url(#linearGradient3703);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.80669022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3661"
+       d="m 1670.3541,1357.8896 c -25.0846,-0.7611 -47.7855,-9.4743 -75.9384,0 -3.9452,1.3278 -7.4403,3.6899 -7.4403,8.2734 l 0,97.4244 c 0,4.5835 3.4897,6.9658 7.4403,8.2732 23.7424,7.8579 49.8006,4.1282 75.9384,0 4.081,-0.6444 7.4403,-3.6897 7.4403,-8.2732 l 0,-97.4244 c 0,-4.5835 -3.3199,-8.1484 -7.4403,-8.2734 z"
+       style="fill:#633112;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.20832539;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       style="fill:#633112;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.18687582;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 1364.04,1357.1337 c 25.0906,-0.7532 47.7968,-9.3758 75.9564,0 3.9461,1.3139 7.442,3.6515 7.442,8.1873 l 0,96.411 c 0,4.5358 -3.4905,6.8934 -7.442,8.1872 -23.7481,7.7761 -49.8124,4.0852 -75.9564,0 -4.0819,-0.6377 -7.442,-3.6514 -7.442,-8.1872 l 0,-96.411 c 0,-4.5358 3.3207,-8.0636 7.442,-8.1873 z"
+       id="path3663"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       ry="14.213758"
+       y="1458.6705"
+       x="1479.3571"
+       height="56.116581"
+       width="28.427517"
+       id="rect3665"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.92986774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.92986774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3667"
+       width="28.427517"
+       height="56.116581"
+       x="1550.9182"
+       y="1458.6705"
+       ry="14.213758" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       ry="12.206936"
+       y="1461.2201"
+       x="1480.817"
+       height="28.504955"
+       width="97.468552"
+       id="rect3669"
+       style="fill:#582b0d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="12.199778"
+       y="1176.0464"
+       x="1311.6378"
+       height="97.472069"
+       width="32.172394"
+       id="rect3671"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="4.1353893"
+       y="1271.8828"
+       x="1316.3492"
+       height="15.163095"
+       width="22.749319"
+       id="rect3673"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="12.199778"
+       y="1242.3274"
+       x="1305.3431"
+       height="37.689201"
+       width="44.761593"
+       id="rect3675"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="4.5486965"
+       y="1171.6494"
+       x="1322.8649"
+       height="10.39702"
+       width="9.7915983"
+       id="rect3677"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       ry="4.1353893"
+       y="1222.4878"
+       x="1323.2729"
+       height="26.65029"
+       width="8.901907"
+       id="rect3679"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3681"
+       width="32.15786"
+       height="97.473648"
+       x="1722.2137"
+       y="1172.1482"
+       ry="12.199976" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3683"
+       width="22.739042"
+       height="15.163342"
+       x="1726.923"
+       y="1267.9862"
+       ry="4.1354566" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3685"
+       width="44.741371"
+       height="37.689812"
+       x="1715.922"
+       y="1238.4303"
+       ry="12.199976" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3687"
+       width="9.7871742"
+       height="10.397189"
+       x="1733.4357"
+       y="1167.751"
+       ry="4.5487704" />
+    <rect
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3689"
+       width="8.8978853"
+       height="26.650721"
+       x="1733.8436"
+       y="1218.5903"
+       ry="4.1354566" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3691"
+       d="m 1661.3917,1359.7445 c -2.818,65.9067 -64.557,102.2975 -142.0918,101.8565 -77.5348,-0.4411 -143.3954,-37.6551 -138.6864,-103.4537 3.1598,-44.1528 34.0277,-85.9674 76.4835,-106.2357 8.4228,-4.021 20.9483,-1.6561 30.1575,-3.831 12.2087,-2.8834 21.3513,-9.5506 34.4275,-8.5763 7.3084,0.5445 16.2788,4.2376 23.2322,5.5135 7.6704,1.4073 21.5574,0.5208 28.7135,2.7466 58.3507,18.1495 89.8917,62.2148 87.764,111.9801 z"
+       style="fill:url(#radialGradient3705);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3693"
+       d="m 1439.2482,1259.2624 c -45.5134,29.0685 -42.0837,39.8509 -58.02,62.5358 -1.307,-6.8113 1.8713,25.8897 -1.0662,37.2596 -1.6117,8.3848 6.8923,13.4615 -7.7933,26.1217 -7.8736,-3.3506 7.7465,1.4994 16.6192,22.5824 6.7621,8.0423 9.3409,16.0607 6.2999,24.0472 -21.1446,-1.7714 16.9718,8.1013 37.7012,13.3764 l 12.7328,19.9595 c -11.3135,3.4343 24.1043,-2.59 38.9069,-4.4417 10.7131,0.1917 20.2417,2.7194 23.5968,17.4204 12.0175,-12.7691 28.5804,-16.3578 40.5427,-19.4333 25.161,9.8078 48.8947,19.0075 36.9146,12.991 l 14.3209,-25.8614 28.2603,1.0802 c 3.3474,4.255 6.7705,-4.7962 10.2433,-22.5873 l 23.0579,-10.2721 -1.9866,-24.7845 c 5.6268,2 13.7383,-7.2316 17.0554,-26.371 -5.3309,9.6477 -10.5215,-5.3682 -15.717,-19.5167 12.3519,-22.7518 -14.611,-34.4989 -19.6656,-55.1752 l -42.0504,-29.3216 -37.7773,11.4888 -27.2751,-5.8954 c -0.1638,5.5308 -7.1531,7.6002 -11.7655,10.875 l -26.1036,16.7569 -19.6978,-5.5368 c -3.6916,-3.5798 -4.4827,-0.284 -11.4149,-11.5456 l -14.2671,-6.5832 c -3.7223,-2.6459 -3.6188,4.4331 -11.6515,-9.1691 z"
+       style="fill:url(#radialGradient3707);fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:17.60000038;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(0.98460663,-0.17478497,0.17478497,0.98460663,1246.1498,1122.7613)"
+       d="m 223.44206,163.91739 a 13.332963,3.2183013 0 1 1 -26.66592,0 13.332963,3.2183013 0 1 1 26.66592,0 z"
+       sodipodi:ry="3.2183013"
+       sodipodi:rx="13.332963"
+       sodipodi:cy="163.91739"
+       sodipodi:cx="210.1091"
+       id="path3695"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-right-foot.png"
+       transform="matrix(-0.99864408,-0.05205775,-0.05205775,0.99864408,1771.2711,1092.0909)"
+       d="m 223.44206,163.91739 a 13.332963,3.2183013 0 1 1 -26.66592,0 13.332963,3.2183013 0 1 1 26.66592,0 z"
+       sodipodi:ry="3.2183013"
+       sodipodi:rx="13.332963"
+       sodipodi:cy="163.91739"
+       sodipodi:cx="210.1091"
+       id="path3697"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.82442832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 1416.7307,1903.213 c 16.4012,7.3598 25.5315,14.9745 49.2148,2.7849 5.0081,-2.5776 9.6873,1.8769 10.2002,7.6356 0.7252,8.1421 2.241,14.7624 3.5297,22.8593 0.9889,6.2135 -5.6675,12.5558 -12.177,11.1855 -22.2965,-4.6935 -40.9591,-2.7801 -58.3348,-0.3083 -6.5896,0.9374 -14.0762,-5.3755 -12.0392,-11.3135 l 7.4293,-21.6579 c 2.037,-5.938 6.0579,-13.9314 12.177,-11.1856 z"
+       id="path3717"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.91763425;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3719"
+       width="401.56528"
+       height="84.903389"
+       x="1333.249"
+       y="1815.6271"
+       ry="12.218468"
+       transform="matrix(0.99998235,0.00594107,-0.00544601,0.99998517,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#214523;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3721"
+       width="280.88428"
+       height="80.624184"
+       x="1395.6648"
+       y="1846.1039"
+       ry="8.9271297"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#1e4b21;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3723"
+       width="219.76593"
+       height="37.711315"
+       x="1426.224"
+       y="1861.42"
+       ry="8.9271297"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       style="fill:url(#linearGradient3773);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 1297.9472,1702.132 49.273,0.2604 c 7.2744,0.038 14.8793,5.7261 13.0559,12.2688 -10.6358,38.1645 -1.9042,76.4314 -0.702,114.6585 0.2125,6.7558 -5.9309,12.1686 -13.2052,12.1301 l -36.4149,-0.1924 c -7.2744,-0.039 -12.3432,-5.5428 -13.0559,-12.269 L 1284.742,1714.262 c -0.7127,-6.726 5.9309,-12.1685 13.2052,-12.13 z"
+       id="path3725"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       style="fill:url(#linearGradient3775);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 1710.667,1707.1779 49.2508,0.2604 c 7.271,0.039 13.6021,5.5298 13.0499,12.269 l -9.6163,117.3702 c -0.5521,6.7393 -5.9508,12.6641 -13.1992,12.1304 l -40.3362,-2.9703 c -7.2484,-0.5338 -13.2127,-5.5121 -13.0499,-12.2691 0.9156,-38.0049 13.8035,-72.2297 0.7016,-114.6604 -2.006,-6.4964 5.9282,-12.1686 13.1993,-12.1302 z"
+       id="path3727"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.82442832;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 1301.8403,1673.9125 c 16.4012,7.3597 25.5315,14.9744 49.2148,2.7849 5.0081,-2.5776 9.6873,1.8768 10.2002,7.6355 0.7252,8.1422 2.241,14.7625 3.5297,22.8594 0.9889,6.2135 -5.889,9.0147 -12.177,11.1855 -22.2965,7.6973 -40.9591,5.4544 -58.3348,-0.3083 -6.3176,-2.0952 -14.0762,-5.3755 -12.0392,-11.3135 l 7.4293,-21.6579 c 2.037,-5.938 6.0579,-13.9315 12.177,-11.1856 z"
+       id="path3729"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       style="fill:#fccf93;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.765311;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 1712.7222,1674.914 c 15.4469,7.5318 25.8302,9.6889 43.7091,0.2173 5.6709,-3.0042 9.1797,5.5819 11.5202,11.4606 l 7.7425,19.4471 c 2.3405,5.8787 -5.3949,9.9226 -11.652,11.3309 -18.6315,4.1932 -37.2413,4.6438 -55.8199,-0.3123 -6.195,-1.6527 -14.4209,-5.8171 -11.5202,-11.4606 3.7099,-7.2179 4.9765,-11.5288 4.3683,-19.3521 -0.4898,-6.301 5.8837,-14.1434 11.652,-11.3309 z"
+       id="path3731"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       style="fill:url(#linearGradient3777);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.80669022;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 1326.0997,1779.7392 c 137.4687,-18.7422 261.0806,-24.8089 407.1594,0.6369 7.2226,1.2582 18.3527,7.23 22.5368,13.7442 11.6353,18.1148 12.0585,47.9242 11.2572,72.3953 -0.2649,8.0928 -6.1049,13.1216 -13.2801,14.5428 -142.5667,28.2396 -291.8467,28.0582 -448.3255,-2.6151 -7.1781,-1.4071 -13.048,-6.5978 -13.1179,-14.6967 -0.2104,-24.3536 -1.9016,-48.9503 12.8652,-70.8444 4.3783,-6.4915 13.6465,-12.1734 20.9049,-13.163 z"
+       id="path3733"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       style="fill:#633112;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.20832539;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 1675.5557,1776.6152 c -25.0846,-0.7611 -47.7855,-9.4743 -75.9384,0 -3.9452,1.3278 -7.4403,3.6899 -7.4403,8.2734 l 0,97.4244 c 0,4.5835 3.4897,6.9658 7.4403,8.2732 23.7424,7.8579 49.8006,4.1282 75.9384,0 4.081,-0.6444 7.4403,-3.6897 7.4403,-8.2732 l 0,-97.4244 c 0,-4.5835 -3.3199,-8.1484 -7.4403,-8.2734 z"
+       id="path3735"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       inkscape:export-ydpi="57.830002"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path3737"
+       d="m 1369.2416,1775.8593 c 25.0906,-0.7532 47.7968,-9.3758 75.9564,0 3.9461,1.3139 7.442,3.6515 7.442,8.1873 l 0,96.411 c 0,4.5358 -3.4905,6.8934 -7.442,8.1872 -23.7481,7.7761 -49.8124,4.0852 -75.9564,0 -4.0819,-0.6377 -7.442,-3.6514 -7.442,-8.1872 l 0,-96.411 c 0,-4.5358 3.3207,-8.0636 7.442,-8.1873 z"
+       style="fill:#633112;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.18687582;stroke-miterlimit:4;stroke-opacity:1" />
+    <rect
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.92986774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3739"
+       width="28.427517"
+       height="56.116581"
+       x="1486.9403"
+       y="1877.3597"
+       ry="14.213758"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       ry="14.213758"
+       y="1877.3597"
+       x="1558.5015"
+       height="56.116581"
+       width="28.427517"
+       id="rect3741"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.92986774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#582b0d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3743"
+       width="97.468552"
+       height="28.504955"
+       x="1488.4003"
+       y="1879.9093"
+       ry="12.206936"
+       transform="matrix(0.99998382,0.00568816,-0.00568816,0.99998382,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3745"
+       width="32.172394"
+       height="97.472069"
+       x="1319.4028"
+       y="1594.7389"
+       ry="12.199778"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3747"
+       width="22.749319"
+       height="15.163095"
+       x="1324.1143"
+       y="1690.5753"
+       ry="4.1353893"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3749"
+       width="44.761593"
+       height="37.689201"
+       x="1313.1082"
+       y="1661.0199"
+       ry="12.199778"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3751"
+       width="9.7915983"
+       height="10.39702"
+       x="1330.6299"
+       y="1590.3419"
+       ry="4.5486965"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14737749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3753"
+       width="8.901907"
+       height="26.65029"
+       x="1331.038"
+       y="1641.1803"
+       ry="4.1353893"
+       transform="matrix(0.99998603,0.00528487,-0.00612223,0.99998126,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       ry="12.199976"
+       y="1590.8406"
+       x="1729.9775"
+       height="97.473648"
+       width="32.15786"
+       id="rect3755"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       ry="4.1354566"
+       y="1686.6787"
+       x="1734.6868"
+       height="15.163342"
+       width="22.739042"
+       id="rect3757"
+       style="fill:#38813d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       ry="12.199976"
+       y="1657.1228"
+       x="1723.6858"
+       height="37.689812"
+       width="44.741371"
+       id="rect3759"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       ry="4.5487704"
+       y="1586.4434"
+       x="1741.1995"
+       height="10.397189"
+       width="9.7871742"
+       id="rect3761"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <rect
+       ry="4.1354566"
+       y="1637.2828"
+       x="1741.6074"
+       height="26.650721"
+       width="8.8978853"
+       id="rect3763"
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.14647436;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="matrix(0.99998602,0.00528734,-0.00611936,0.99998128,0,0)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       style="fill:url(#radialGradient3779);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1666.5933,1778.4701 c -2.818,65.9067 -64.557,102.2975 -142.0918,101.8565 -77.5348,-0.4411 -143.3954,-37.6551 -138.6864,-103.4537 3.1598,-44.1527 34.0277,-85.9674 76.4835,-106.2357 8.4228,-4.021 20.9483,-1.6561 30.1575,-3.831 12.2087,-2.8834 21.3513,-9.5506 34.4275,-8.5763 7.3084,0.5445 16.2788,4.2376 23.2322,5.5135 7.6704,1.4073 21.5574,0.5208 28.7135,2.7466 58.3507,18.1495 89.8917,62.2148 87.764,111.9801 z"
+       id="path3765"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       style="fill:url(#radialGradient3781);fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:17.60000038;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1444.4498,1677.988 c -45.5134,29.0685 -42.0837,39.8509 -58.02,62.5358 -1.307,-6.8112 1.8713,25.8897 -1.0662,37.2596 -1.6117,8.3848 6.8923,13.4615 -7.7933,26.1217 -7.8736,-3.3506 7.7465,1.4994 16.6192,22.5824 6.7621,8.0423 9.3409,16.0607 6.2999,24.0472 -21.1446,-1.7714 16.9718,8.1013 37.7012,13.3764 l 12.7328,19.9595 c -11.3135,3.4343 24.1043,-2.59 38.9069,-4.4417 10.7131,0.1917 20.2417,2.7194 23.5968,17.4204 12.0175,-12.7691 28.5804,-16.3578 40.5427,-19.4333 25.161,9.8078 48.8947,19.0075 36.9146,12.991 l 14.3209,-25.8614 28.2603,1.0802 c 3.3474,4.255 6.7705,-4.7962 10.2433,-22.5873 l 23.0579,-10.2721 -1.9866,-24.7845 c 5.6268,2 13.7383,-7.2316 17.0554,-26.371 -5.3309,9.6477 -10.5215,-5.3682 -15.717,-19.5167 12.3519,-22.7518 -14.611,-34.4989 -19.6656,-55.1752 l -42.0504,-29.3216 -37.7773,11.4888 -27.2751,-5.8954 c -0.1638,5.5308 -7.1531,7.6002 -11.7655,10.875 l -26.1036,16.7569 -19.6978,-5.5368 c -3.6916,-3.5798 -4.4827,-0.284 -11.4149,-11.5456 l -14.2671,-6.5832 c -3.7223,-2.6459 -3.6188,4.4331 -11.6515,-9.1691 z"
+       id="path3767"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3769"
+       sodipodi:cx="210.1091"
+       sodipodi:cy="163.91739"
+       sodipodi:rx="13.332963"
+       sodipodi:ry="3.2183013"
+       d="m 223.44206,163.91739 a 13.332963,3.2183013 0 1 1 -26.66592,0 13.332963,3.2183013 0 1 1 26.66592,0 z"
+       transform="matrix(0.98460663,-0.17478497,0.17478497,0.98460663,1251.3514,1541.4869)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3771"
+       sodipodi:cx="210.1091"
+       sodipodi:cy="163.91739"
+       sodipodi:rx="13.332963"
+       sodipodi:ry="3.2183013"
+       d="m 223.44206,163.91739 a 13.332963,3.2183013 0 1 1 -26.66592,0 13.332963,3.2183013 0 1 1 26.66592,0 z"
+       transform="matrix(-0.99864408,-0.05205775,-0.05205775,0.99864408,1776.4727,1510.8165)"
+       inkscape:export-filename="C:\Users\Chris\Pictures\walk-left-foot.png"
+       inkscape:export-xdpi="57.830002"
+       inkscape:export-ydpi="57.830002" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3316"
+       y="1392.9281"
+       x="1955.0232"
+       style="font-size:63.94384003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       xml:space="preserve"><tspan
+         y="1392.9281"
+         x="1955.0232"
+         id="tspan3318"
+         sodipodi:role="line">Right foot</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:63.94384003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       x="1970.6278"
+       y="1809.053"
+       id="text3328"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3330"
+         x="1970.6278"
+         y="1809.053">Left foot</tspan></text>
+    <rect
+       style="fill:#383838;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:12.33283615;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3336"
+       width="28.065624"
+       height="32.075001"
+       x="-447.91534"
+       y="1811.0858"
+       ry="14.032812"
+       transform="matrix(0.99847715,-0.05516676,0.05516676,0.99847715,0,0)" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3338"
+       y="1947.5255"
+       x="-416.55579"
+       style="font-size:63.94384003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       xml:space="preserve"><tspan
+         y="1947.5255"
+         x="-416.55579"
+         id="tspan3340"
+         sodipodi:role="line">Bullet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:63.94384003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       x="1530.7714"
+       y="1008.0126"
+       id="text3372"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3374"
+         x="1530.7714"
+         y="1008.0126">Walking</tspan><tspan
+         style="font-size:56px"
+         id="tspan3376"
+         sodipodi:role="line"
+         x="1530.7714"
+         y="1079.9883">(player has feet)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:169.93640137px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       x="924.18573"
+       y="2702.3979"
+       id="text3378"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3380"
+         x="924.18579"
+         y="2702.3979">Created by www.SquarePug.com,</tspan><tspan
+         sodipodi:role="line"
+         x="924.18579"
+         y="2914.8184"
+         id="tspan3382">come and say hi :)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:169.93640137000000000px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Seabird SF;-inkscape-font-specification:Seabird SF"
+       x="-112.85415"
+       y="2431.917"
+       id="text3384"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3386"
+         x="-112.85415"
+         y="2431.917">File license: public domain</tspan></text>
+  </g>
+</svg>
