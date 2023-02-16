@@ -10,6 +10,10 @@ extends Node2D
 func _ready():
 	$HighScore.text = str(Globals.highScore)
 	$LastScore.text = str(Globals.lastScore)
+	if Globals.newHighScore:
+		$fireWorks.visible = true
+	else:
+		$fireWorks.visible = false
 	pass # Replace with function body.
 
 

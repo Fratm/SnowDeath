@@ -1,9 +1,18 @@
-[gd_scene load_steps=9 format=2]
+[gd_scene load_steps=59 format=2]
 
 [ext_resource path="res://ParallaxBackground.gd" type="Script" id=1]
 [ext_resource path="res://assets/snowField.png" type="Texture" id=2]
 [ext_resource path="res://assets/fonts/ARCADE_R.TTF" type="DynamicFontData" id=3]
 [ext_resource path="res://scripts/waitScreen.gd" type="Script" id=4]
+[ext_resource path="res://assets/fireworks/firework_red5.png" type="Texture" id=5]
+[ext_resource path="res://assets/fireworks/firework_red0.png" type="Texture" id=6]
+[ext_resource path="res://assets/fireworks/firework_red3.png" type="Texture" id=7]
+[ext_resource path="res://assets/fireworks/firework_red2.png" type="Texture" id=8]
+[ext_resource path="res://assets/fireworks/firework_red6.png" type="Texture" id=9]
+[ext_resource path="res://assets/fireworks/firework_red4.png" type="Texture" id=10]
+[ext_resource path="res://assets/fireworks/firework_red7.png" type="Texture" id=11]
+[ext_resource path="res://assets/fireworks/firework_red1.png" type="Texture" id=12]
+[ext_resource path="res://assets/dancers.png" type="Texture" id=13]
 
 [sub_resource type="DynamicFont" id=1]
 font_data = ExtResource( 3 )
@@ -19,6 +28,222 @@ font_data = ExtResource( 3 )
 [sub_resource type="DynamicFont" id=2]
 font_data = ExtResource( 3 )
 
+[sub_resource type="SpriteFrames" id=5]
+animations = [ {
+"frames": [ ExtResource( 6 ), ExtResource( 12 ), ExtResource( 8 ), ExtResource( 7 ), ExtResource( 10 ), ExtResource( 5 ), ExtResource( 9 ), ExtResource( 11 ) ],
+"loop": true,
+"name": "red",
+"speed": 10.0
+} ]
+
+[sub_resource type="AtlasTexture" id=7]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 0, 192, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=8]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 32, 192, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=9]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 64, 192, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=10]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 96, 192, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=11]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 128, 192, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=12]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 160, 192, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=13]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 0, 224, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=14]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 32, 224, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=15]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 64, 224, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=16]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 96, 224, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=17]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 128, 224, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=18]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 160, 224, 32, 32 )
+
+[sub_resource type="SpriteFrames" id=19]
+animations = [ {
+"frames": [ SubResource( 7 ), SubResource( 8 ), SubResource( 9 ), SubResource( 10 ), SubResource( 11 ), SubResource( 12 ), SubResource( 13 ), SubResource( 14 ), SubResource( 15 ), SubResource( 16 ), SubResource( 17 ), SubResource( 18 ) ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+} ]
+
+[sub_resource type="AtlasTexture" id=20]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 0, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=21]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 32, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=22]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 64, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=23]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 96, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=24]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 128, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=25]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 160, 64, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=26]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 0, 96, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=27]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 32, 96, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=28]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 64, 96, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=29]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 96, 96, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=30]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 128, 96, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=31]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 160, 96, 32, 32 )
+
+[sub_resource type="SpriteFrames" id=32]
+animations = [ {
+"frames": [ SubResource( 20 ), SubResource( 21 ), SubResource( 22 ), SubResource( 23 ), SubResource( 24 ), SubResource( 25 ), SubResource( 26 ), SubResource( 27 ), SubResource( 28 ), SubResource( 29 ), SubResource( 30 ), SubResource( 31 ) ],
+"loop": true,
+"name": "default",
+"speed": 8.0
+} ]
+
+[sub_resource type="AtlasTexture" id=33]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 0, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=34]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 32, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=35]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 64, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=36]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 96, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=37]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 128, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=38]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 160, 0, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=39]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 0, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=40]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 32, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=41]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 64, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=42]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 96, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=43]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 128, 32, 32, 32 )
+
+[sub_resource type="AtlasTexture" id=44]
+flags = 4
+atlas = ExtResource( 13 )
+region = Rect2( 160, 32, 32, 32 )
+
+[sub_resource type="SpriteFrames" id=45]
+animations = [ {
+"frames": [ SubResource( 33 ), SubResource( 34 ), SubResource( 35 ), SubResource( 36 ), SubResource( 37 ), SubResource( 38 ), SubResource( 39 ), SubResource( 40 ), SubResource( 41 ), SubResource( 42 ), SubResource( 43 ), SubResource( 44 ) ],
+"loop": true,
+"name": "default",
+"speed": 10.0
+} ]
+
+[sub_resource type="DynamicFont" id=6]
+size = 6
+font_data = ExtResource( 3 )
+
 [node name="waitScreen" type="Node2D"]
 script = ExtResource( 4 )
 
@@ -31,7 +256,7 @@ script = ExtResource( 1 )
 motion_mirroring = Vector2( 0, 1200 )
 
 [node name="Sprite" type="Sprite" parent="ground/ParallaxBackground/ParallaxLayer"]
-position = Vector2( 409, 620 )
+position = Vector2( 529, 621 )
 scale = Vector2( 1, 1.2628 )
 texture = ExtResource( 2 )
 
@@ -95,5 +320,44 @@ custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
 custom_fonts/font = SubResource( 1 )
 text = "0"
 valign = 1
+
+[node name="fireWorks" type="AnimatedSprite" parent="."]
+position = Vector2( 326, 555 )
+scale = Vector2( 6.2, 5.825 )
+frames = SubResource( 5 )
+animation = "red"
+frame = 6
+playing = true
+
+[node name="DancingGirl03" type="AnimatedSprite" parent="fireWorks"]
+position = Vector2( 40.4839, 30.2146 )
+scale = Vector2( 0.544355, 0.579399 )
+frames = SubResource( 19 )
+frame = 4
+playing = true
+
+[node name="DancingGirl02" type="AnimatedSprite" parent="fireWorks"]
+position = Vector2( 6.12903, 30.3863 )
+scale = Vector2( 0.514113, 0.54721 )
+frames = SubResource( 32 )
+frame = 8
+playing = true
+
+[node name="DancingGirl01" type="AnimatedSprite" parent="fireWorks"]
+position = Vector2( -32.4194, 31.073 )
+scale = Vector2( 0.544355, 0.579399 )
+frames = SubResource( 45 )
+frame = 7
+playing = true
+
+[node name="labelNewHighScore" type="Label" parent="fireWorks"]
+margin_left = -52.4194
+margin_top = -2.91846
+margin_right = 63.5806
+margin_bottom = 9.08154
+custom_colors/font_color = Color( 0.0431373, 0.0745098, 0.619608, 1 )
+custom_fonts/font = SubResource( 6 )
+text = "!NEW HIGH SCORE!"
+align = 1
 
 [connection signal="pressed" from="buttonStart" to="." method="_on_buttonStart_pressed"]

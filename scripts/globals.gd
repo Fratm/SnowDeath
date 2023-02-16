@@ -1,5 +1,6 @@
 extends Node
 
+var newHighScore = false
 var scrollSpeed = 500
 var totalDistance = 0
 var gameOver = true

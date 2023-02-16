@@ -13,7 +13,6 @@ func _ready():
 func _process(delta):
 	if Globals.gameOver:
 		if !Globals.waitSceen:
-			print ("Spawning wait sceen")
 			var myWaitSceen = waitScreen.instance()
 			add_child(myWaitSceen)
 			$distanceHUD.visible = false
@@ -24,7 +23,7 @@ func _process(delta):
 	if $spawnTimer.is_stopped():
 		Globals.totalDistance +=1
 		rng.randomize()
-		var howMany = rng.randf_range(1, 5)
+		var howMany = rng.randf_range(1, 15)
 		while howMany > 0:
 			var aTree = myTree.instance()
 			aTree.position = Vector2(rng.randf_range(20.0, 710),-20)
@@ -56,6 +55,7 @@ func gameOver():
 	$score.visible = false
 	if Globals.highScore < Globals.lastScore:
 		Globals.highScore = Globals.lastScore
+		Globals.newHighScore = true
 	save()
 	
 func save():
