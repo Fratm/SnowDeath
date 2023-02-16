@@ -24,7 +24,6 @@ func get_input():
 	velocity = velocity.normalized() * speed
 	
 func _physics_process(delta):
-	print ("My XxY position is : ", get_position() )
 	get_input()
 	move_and_slide(velocity)
 # Called every frame. 'delta' is the elapsed time since the previous frame.

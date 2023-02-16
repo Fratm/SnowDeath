@@ -10,7 +10,13 @@ func _ready():
 	pass # Replace with function body.
 
 func _process(delta):
-	self.position.y += delta * Globals.scrollSpeed
+	var velocity = Vector2(0, Globals.scrollSpeed) * delta
+	var collision = move_and_collide(velocity)
+	if collision and collision.collider.name == "Player":
+		print ("I hit the player, this should be game over!")
+		
+	#self.position.y += delta * Globals.scrollSpeed
+
 	
 	
 # Called every frame. 'delta' is the elapsed time since the previous frame.
@@ -21,3 +27,4 @@ func _process(delta):
 func _on_VisibilityNotifier2D_screen_exited():
 	queue_free()
 	pass # Replace with function body.
+
