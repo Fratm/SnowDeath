@@ -4,17 +4,10 @@ var myTree = preload("res://scenes/tree001.tscn")
 var waitScreen = preload("res://scenes/waitScreen.tscn")
 var thePlayer = preload("res://scenes/Player.tscn")
 var rng = RandomNumberGenerator.new()
-# Declare member variables here. Examples:
-# var a = 2
-# var b = "text"
-
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	pass # Replace with function body.
-
-
-
 
 func _process(delta):
 	if Globals.gameOver:
@@ -51,6 +44,7 @@ func initGame():
 	var Player = thePlayer.instance()
 	Player.position = Globals.startPosition
 	Globals.totalDistance = 0
+	Globals.scrollSpeed = 100
 	add_child(Player)
 
 #What to do when game is over
