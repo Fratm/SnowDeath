@@ -1,10 +1,9 @@
-[gd_scene load_steps=7 format=2]
+[gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://ParallaxBackground.gd" type="Script" id=1]
 [ext_resource path="res://assets/snowField.png" type="Texture" id=2]
 [ext_resource path="res://scripts/Main.gd" type="Script" id=3]
 [ext_resource path="res://assets/fonts/ARCADE_R.TTF" type="DynamicFontData" id=4]
-[ext_resource path="res://scenes/Player.tscn" type="PackedScene" id=5]
 
 [sub_resource type="DynamicFont" id=1]
 font_data = ExtResource( 4 )
@@ -44,6 +43,3 @@ custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
 custom_fonts/font = SubResource( 1 )
 text = "Distance Traveled "
 valign = 1
-
-[node name="Player" parent="." instance=ExtResource( 5 )]
-position = Vector2( 336, 1223 )

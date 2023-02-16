@@ -13,7 +13,7 @@ func _process(delta):
 	var velocity = Vector2(0, Globals.scrollSpeed) * delta
 	var collision = move_and_collide(velocity)
 	if collision and collision.collider.name == "Player":
-		print ("I hit the player, this should be game over!")
+		print ("I hit the player, this should be game over!", collision.collider.name)
 		
 	#self.position.y += delta * Globals.scrollSpeed
 

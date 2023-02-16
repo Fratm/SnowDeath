@@ -1,6 +1,8 @@
 extends Node2D
 
 var myTree = preload("res://scenes/tree001.tscn")
+var waitScreen = preload("res://scenes/waitScreen.tscn")
+var thePlayer = preload("res://scenes/Player.tscn")
 var rng = RandomNumberGenerator.new()
 # Declare member variables here. Examples:
 # var a = 2
@@ -9,12 +11,17 @@ var rng = RandomNumberGenerator.new()
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	initGame()
 	pass # Replace with function body.
 
 
 
 
 func _process(delta):
+	if Globals.gameOver:
+		print ("Displaying wait screen")
+		var myWaitSceen = waitScreen.instance()
+		return
 	$distanceHUD.text = "Distance Traveled :" + str(Globals.totalDistance * 10) + " yards."
 	if $spawnTimer.is_stopped():
 		Globals.totalDistance +=1
@@ -34,3 +41,10 @@ func _process(delta):
 		#	N.treeSpeed = Globals.scrollSpeed
 		$speedUpTimer.start()
 			
+func initGame():
+	Globals.gameOver = false
+	var Player = thePlayer.instance()
+	Player.position = Globals.startPosition
+	add_child(Player)
+	pass
+	
