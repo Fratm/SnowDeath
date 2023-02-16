@@ -10,10 +10,12 @@ func _ready():
 	pass # Replace with function body.
 
 func _process(delta):
+	if Globals.gameOver:
+		queue_free()
 	var velocity = Vector2(0, Globals.scrollSpeed) * delta
 	var collision = move_and_collide(velocity)
 	if collision and collision.collider.name == "Player":
-		print ("I hit the player, this should be game over!", collision.collider.name)
+		get_parent().get_parent().gameOver()
 		
 	#self.position.y += delta * Globals.scrollSpeed
 

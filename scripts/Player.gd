@@ -24,6 +24,8 @@ func get_input():
 	velocity = velocity.normalized() * speed
 	
 func _physics_process(delta):
+	if Globals.gameOver:
+		queue_free()
 	get_input()
 	move_and_slide(velocity)
 # Called every frame. 'delta' is the elapsed time since the previous frame.

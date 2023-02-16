@@ -8,15 +8,15 @@
 [sub_resource type="DynamicFont" id=1]
 font_data = ExtResource( 3 )
 
-[sub_resource type="DynamicFont" id=2]
-font_data = ExtResource( 3 )
-
 [sub_resource type="DynamicFont" id=3]
 font_data = ExtResource( 3 )
 
 [sub_resource type="DynamicFont" id=4]
 size = 13
 outline_color = Color( 0.0627451, 0.0627451, 0.0627451, 1 )
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=2]
 font_data = ExtResource( 3 )
 
 [node name="waitScreen" type="Node2D"]
@@ -45,16 +45,6 @@ custom_fonts/font = SubResource( 1 )
 text = "LAST SCORE : "
 valign = 1
 
-[node name="LastScore" type="Label" parent="LabelLastScore"]
-margin_left = 200.0
-margin_top = -1.0
-margin_right = 488.0
-margin_bottom = 49.0
-custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
-custom_fonts/font = SubResource( 2 )
-text = "0"
-valign = 1
-
 [node name="LabelHighScore" type="Label" parent="."]
 margin_left = 225.0
 margin_top = 149.0
@@ -63,15 +53,6 @@ margin_bottom = 199.0
 custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
 custom_fonts/font = SubResource( 1 )
 text = "HIGH SCORE : "
-valign = 1
-
-[node name="HighScore" type="Label" parent="LabelHighScore"]
-margin_left = 201.0
-margin_right = 489.0
-margin_bottom = 50.0
-custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
-custom_fonts/font = SubResource( 1 )
-text = "0"
 valign = 1
 
 [node name="buttonStart" type="Button" parent="."]
@@ -94,5 +75,25 @@ Available at https://github.com/Fratm/SnowDeath
 "
 align = 1
 autowrap = true
+
+[node name="LastScore" type="Label" parent="."]
+margin_left = 425.0
+margin_top = 189.0
+margin_right = 713.0
+margin_bottom = 239.0
+custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
+custom_fonts/font = SubResource( 2 )
+text = "0"
+valign = 1
+
+[node name="HighScore" type="Label" parent="."]
+margin_left = 426.0
+margin_top = 149.0
+margin_right = 714.0
+margin_bottom = 199.0
+custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
+custom_fonts/font = SubResource( 1 )
+text = "0"
+valign = 1
 
 [connection signal="pressed" from="buttonStart" to="." method="_on_buttonStart_pressed"]
