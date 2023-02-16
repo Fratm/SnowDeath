@@ -1,13 +1,26 @@
-[gd_scene load_steps=5 format=2]
+[gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://ParallaxBackground.gd" type="Script" id=1]
 [ext_resource path="res://assets/snowField.png" type="Texture" id=2]
 [ext_resource path="res://assets/fonts/ARCADE_R.TTF" type="DynamicFontData" id=3]
+[ext_resource path="res://scripts/waitScreen.gd" type="Script" id=4]
 
 [sub_resource type="DynamicFont" id=1]
 font_data = ExtResource( 3 )
 
+[sub_resource type="DynamicFont" id=2]
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=3]
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=4]
+size = 13
+outline_color = Color( 0.0627451, 0.0627451, 0.0627451, 1 )
+font_data = ExtResource( 3 )
+
 [node name="waitScreen" type="Node2D"]
+script = ExtResource( 4 )
 
 [node name="ground" type="CanvasLayer" parent="."]
 
@@ -38,7 +51,7 @@ margin_top = -1.0
 margin_right = 488.0
 margin_bottom = 49.0
 custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
-custom_fonts/font = SubResource( 1 )
+custom_fonts/font = SubResource( 2 )
 text = "0"
 valign = 1
 
@@ -60,3 +73,26 @@ custom_colors/font_color = Color( 0.313726, 0.054902, 0.74902, 1 )
 custom_fonts/font = SubResource( 1 )
 text = "0"
 valign = 1
+
+[node name="buttonStart" type="Button" parent="."]
+margin_left = 261.0
+margin_top = 293.0
+margin_right = 399.0
+margin_bottom = 359.0
+custom_fonts/font = SubResource( 3 )
+text = "START"
+
+[node name="credits" type="Label" parent="."]
+margin_left = 3.0
+margin_top = 1198.0
+margin_right = 713.0
+margin_bottom = 1268.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 4 )
+text = "Snow Death - A Ski Program written in Godot 3.5 By Steven  R. Johnson  (C)2023 MIT License
+Available at https://github.com/Fratm/SnowDeath
+"
+align = 1
+autowrap = true
+
+[connection signal="pressed" from="buttonStart" to="." method="_on_buttonStart_pressed"]

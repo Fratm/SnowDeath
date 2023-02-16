@@ -11,7 +11,7 @@ var rng = RandomNumberGenerator.new()
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	initGame()
+	#initGame()
 	pass # Replace with function body.
 
 
@@ -19,8 +19,11 @@ func _ready():
 
 func _process(delta):
 	if Globals.gameOver:
-		print ("Displaying wait screen")
-		var myWaitSceen = waitScreen.instance()
+		if !Globals.waitSceen:
+			print ("Spawning wait sceen")
+			var myWaitSceen = waitScreen.instance()
+			add_child(myWaitSceen)
+			Globals.waitSceen = true
 		return
 	$distanceHUD.text = "Distance Traveled :" + str(Globals.totalDistance * 10) + " yards."
 	if $spawnTimer.is_stopped():
@@ -41,10 +44,15 @@ func _process(delta):
 		#	N.treeSpeed = Globals.scrollSpeed
 		$speedUpTimer.start()
 			
+#Set up a new game.  
 func initGame():
 	Globals.gameOver = false
+	$distanceHUD.visible = true
 	var Player = thePlayer.instance()
 	Player.position = Globals.startPosition
 	add_child(Player)
-	pass
+
+#What to do when game is over
+func gameOver():
+	Globals.gameOver = true
 	
