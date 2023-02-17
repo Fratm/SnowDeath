@@ -8,6 +8,8 @@ var rng = RandomNumberGenerator.new()
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	loadcfg()
+	if Globals.touch:
+		$DEBUG.text = "TOUCH!"
 	pass # Replace with function body.
 
 func _process(_delta):
@@ -84,11 +86,4 @@ func loadcfg():
 		Globals.lastScore = data.lastscore
 	
 	
-	
-	
-
-	
-	
-	
-
 	

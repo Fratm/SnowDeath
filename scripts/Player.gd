@@ -8,7 +8,8 @@ var boundryRight = 689
 # Declare member variables here. Examples:
 # var a = 2
 # var b = "text"
-
+const SENSITIVITY_JUMP := -10
+const SENSITIVITY_SLIDE := .5
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
@@ -46,3 +47,22 @@ func _on_jumping_timeout():
 	$CollisionShape2D.disabled = false
 	
 	pass # Replace with function body.
+	
+
+func _unhandled_input(event):
+	if event is InputEventScreenDrag:
+		var swipe = event.relative
+		if swipe.y < SENSITIVITY_JUMP :
+			 print ("Jump")
+		if swipe.x < -SENSITIVITY_SLIDE :
+			 velocity.x -=1
+		if swipe.x > SENSITIVITY_SLIDE :
+			 velocity.x +=1
+		
+		velocity = velocity.normalized() * speed
+		var _moveslide = move_and_slide(velocity)
+		
+
+			
+	
+			
