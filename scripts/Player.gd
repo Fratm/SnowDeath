@@ -2,7 +2,7 @@ extends KinematicBody2D
 
 const speed = 400
 var velocity = Vector2()
-var screen_size = get_viewport_rect().size
+#var screen_size = get_viewport_rect().size
 var boundryLeft = 40
 var boundryRight = 689
 # Declare member variables here. Examples:

@@ -3,7 +3,10 @@ extends Node2D
 var myTree = preload("res://scenes/tree001.tscn")
 var waitScreen = preload("res://scenes/waitScreen.tscn")
 var thePlayer = preload("res://scenes/Player.tscn")
+var coin = preload("res://scenes/coin.tscn")
+
 var rng = RandomNumberGenerator.new()
+var rngcoin = RandomNumberGenerator.new()
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
@@ -22,6 +25,7 @@ func _process(_delta):
 			Globals.waitSceen = true
 		return
 	$score.text = str(Globals.totalDistance * 10)
+	_spawnSpecial()
 	spawnTrees()
 
 	if $speedUpTimer.is_stopped():
@@ -40,8 +44,18 @@ func spawnTrees():
 			aTree.position = Vector2(rng.randf_range(20.0, 710),-20)
 			$TreeBucket.add_child(aTree)
 			howMany -= 1
-		$spawnTimer.wait_time = rng.randf_range(1, 3)
+		$spawnTimer.wait_time = rng.randf_range(.5, 2)
 		$spawnTimer.start()
+
+func _spawnSpecial():
+	rngcoin.randomize()
+	var dropCoin = rngcoin.randf_range(1, 1000)
+	if dropCoin <15:
+		print ("Dropping coin!")
+		var aCoin = coin.instance()
+		aCoin.position = Vector2(rngcoin.randf_range(20.0, 710),-50)
+		$TreeBucket.add_child(aCoin)
+	
 
 #Set up a new game. 
 func initGame():
