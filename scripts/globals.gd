@@ -8,3 +8,4 @@ var lastScore = 0
 var startPosition = Vector2(359,1200)
 var waitSceen = false
 var highScore = 0
+var isJumping = false

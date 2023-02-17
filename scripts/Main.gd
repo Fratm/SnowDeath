@@ -20,6 +20,15 @@ func _process(_delta):
 			Globals.waitSceen = true
 		return
 	$score.text = str(Globals.totalDistance * 10)
+	spawnTrees()
+
+	if $speedUpTimer.is_stopped():
+		Globals.scrollSpeed *= 1.01
+		$speedUpTimer.start()
+			
+ 
+#Tree Spawner
+func spawnTrees():
 	if $spawnTimer.is_stopped():
 		Globals.totalDistance +=1
 		rng.randomize()
@@ -31,11 +40,8 @@ func _process(_delta):
 			howMany -= 1
 		$spawnTimer.wait_time = rng.randf_range(1, 3)
 		$spawnTimer.start()
-	if $speedUpTimer.is_stopped():
-		Globals.scrollSpeed *= 1.01
-		$speedUpTimer.start()
-			
-#Set up a new game.  
+
+#Set up a new game. 
 func initGame():
 	Globals.gameOver = false
 	$distanceHUD.visible = true

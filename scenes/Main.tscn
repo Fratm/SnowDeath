@@ -32,7 +32,7 @@ texture = ExtResource( 2 )
 [node name="TreeBucket" type="Node" parent="."]
 
 [node name="spawnTimer" type="Timer" parent="."]
-wait_time = 5.0
+wait_time = 3.0
 one_shot = true
 
 [node name="speedUpTimer" type="Timer" parent="."]

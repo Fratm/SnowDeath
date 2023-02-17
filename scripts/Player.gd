@@ -23,6 +23,12 @@ func get_input():
 		velocity.x += 1
 	if Input.is_action_pressed("ui_left") and myPos.x > boundryLeft:
 		velocity.x -= 1
+	if Input.is_action_pressed("ui_jump") and $jumping.is_stopped():
+		print ("Boing!")
+		$jumping.start()
+		$AnimatedSprite.set_animation("Jumping")
+		$CollisionShape2D.disabled = true
+		
 	velocity = velocity.normalized() * speed
 	
 	
@@ -31,6 +37,12 @@ func _physics_process(_delta):
 		queue_free()
 	get_input()
 	var _moveslide = move_and_slide(velocity)
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-#func _process(delta):
-#	pass
+
+
+func _on_jumping_timeout():
+	print ("Landed")
+	$AnimatedSprite.set_animation("default")
+	Globals.isJumping = false
+	$CollisionShape2D.disabled = false
+	
+	pass # Replace with function body.
