@@ -17,17 +17,20 @@ func _ready():
 func get_input():
 	velocity = Vector2()
 	var myPos = get_position()
+	if Input.is_action_pressed("clear_hs"):
+		Globals.highScore = 0
 	if Input.is_action_pressed("ui_right") and myPos.x < boundryRight:
 		velocity.x += 1
 	if Input.is_action_pressed("ui_left") and myPos.x > boundryLeft:
 		velocity.x -= 1
 	velocity = velocity.normalized() * speed
 	
-func _physics_process(delta):
+	
+func _physics_process(_delta):
 	if Globals.gameOver:
 		queue_free()
 	get_input()
-	move_and_slide(velocity)
+	var _moveslide = move_and_slide(velocity)
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
 #	pass

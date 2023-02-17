@@ -13,6 +13,7 @@
 [ext_resource path="res://assets/fireworks/firework_red7.png" type="Texture" id=11]
 [ext_resource path="res://assets/fireworks/firework_red1.png" type="Texture" id=12]
 [ext_resource path="res://assets/dancers.png" type="Texture" id=13]
+[ext_resource path="res://assets/newhs.png" type="Texture" id=14]
 
 [sub_resource type="DynamicFont" id=1]
 font_data = ExtResource( 3 )
@@ -240,10 +241,6 @@ animations = [ {
 "speed": 10.0
 } ]
 
-[sub_resource type="DynamicFont" id=6]
-size = 6
-font_data = ExtResource( 3 )
-
 [node name="waitScreen" type="Node2D"]
 script = ExtResource( 4 )
 
@@ -322,42 +319,37 @@ text = "0"
 valign = 1
 
 [node name="fireWorks" type="AnimatedSprite" parent="."]
+visible = false
 position = Vector2( 326, 555 )
 scale = Vector2( 6.2, 5.825 )
 frames = SubResource( 5 )
 animation = "red"
-frame = 6
 playing = true
 
 [node name="DancingGirl03" type="AnimatedSprite" parent="fireWorks"]
 position = Vector2( 40.4839, 30.2146 )
 scale = Vector2( 0.544355, 0.579399 )
 frames = SubResource( 19 )
-frame = 4
+frame = 6
 playing = true
 
 [node name="DancingGirl02" type="AnimatedSprite" parent="fireWorks"]
 position = Vector2( 6.12903, 30.3863 )
 scale = Vector2( 0.514113, 0.54721 )
 frames = SubResource( 32 )
-frame = 8
+frame = 3
 playing = true
 
 [node name="DancingGirl01" type="AnimatedSprite" parent="fireWorks"]
 position = Vector2( -32.4194, 31.073 )
 scale = Vector2( 0.544355, 0.579399 )
 frames = SubResource( 45 )
-frame = 7
+frame = 9
 playing = true
 
-[node name="labelNewHighScore" type="Label" parent="fireWorks"]
-margin_left = -52.4194
-margin_top = -2.91846
-margin_right = 63.5806
-margin_bottom = 9.08154
-custom_colors/font_color = Color( 0.0431373, 0.0745098, 0.619608, 1 )
-custom_fonts/font = SubResource( 6 )
-text = "!NEW HIGH SCORE!"
-align = 1
+[node name="Sprite" type="Sprite" parent="fireWorks"]
+position = Vector2( 7.41925, -3.9485 )
+scale = Vector2( 0.119705, 0.407725 )
+texture = ExtResource( 14 )
 
 [connection signal="pressed" from="buttonStart" to="." method="_on_buttonStart_pressed"]

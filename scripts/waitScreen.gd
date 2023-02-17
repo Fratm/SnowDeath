@@ -26,6 +26,7 @@ func _on_buttonStart_pressed():
 	Globals.gameOver = false
 	get_parent().initGame()
 	Globals.waitSceen = false
+	Globals.newHighScore = false
 	queue_free()
 	
 	pass # Replace with function body.

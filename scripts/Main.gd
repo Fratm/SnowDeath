@@ -10,7 +10,7 @@ func _ready():
 	loadcfg()
 	pass # Replace with function body.
 
-func _process(delta):
+func _process(_delta):
 	if Globals.gameOver:
 		if !Globals.waitSceen:
 			var myWaitSceen = waitScreen.instance()
