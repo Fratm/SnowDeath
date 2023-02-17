@@ -17,6 +17,7 @@ func _on_VisibilityNotifier2D_screen_exited():
 func _on_Area2D_body_entered(body):
 	if body.name != "Player":
 		return
+	$AnimatedSprite.visible = false
 	Globals.totalDistance += 10
 	$AudioStreamPlayer2D.play()
 	yield(get_tree().create_timer(.75), "timeout")

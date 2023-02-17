@@ -324,28 +324,28 @@ position = Vector2( 326, 555 )
 scale = Vector2( 6.2, 5.825 )
 frames = SubResource( 5 )
 animation = "red"
-frame = 3
+frame = 2
 playing = true
 
 [node name="DancingGirl03" type="AnimatedSprite" parent="fireWorks"]
 position = Vector2( 40.4839, 30.2146 )
 scale = Vector2( 0.544355, 0.579399 )
 frames = SubResource( 19 )
-frame = 3
+frame = 10
 playing = true
 
 [node name="DancingGirl02" type="AnimatedSprite" parent="fireWorks"]
 position = Vector2( 6.12903, 30.3863 )
 scale = Vector2( 0.514113, 0.54721 )
 frames = SubResource( 32 )
-frame = 3
+frame = 5
 playing = true
 
 [node name="DancingGirl01" type="AnimatedSprite" parent="fireWorks"]
 position = Vector2( -32.4194, 31.073 )
 scale = Vector2( 0.544355, 0.579399 )
 frames = SubResource( 45 )
-frame = 4
+frame = 7
 playing = true
 
 [node name="Sprite" type="Sprite" parent="fireWorks"]
